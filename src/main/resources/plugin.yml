@@ -1,0 +1,7 @@
+name: ChallengingDeathRecovery
+version: '1.0-SNAPSHOT'
+main: me.nouridin.challengingDeathRecovery.ChallengingDeathRecovery
+api-version: '1.21'
+author: Nouridin
+website: https://github.com/Nouridin
+description: A Challenging way to die (be careful anyone can collect your items)

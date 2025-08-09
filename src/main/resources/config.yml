@@ -1,0 +1,4 @@
+# Default plugin settings
+
+# Percentage of items will disappear into the void (0 - 100)
+percentage-of-trashed-items: 0
